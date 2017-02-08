@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p Displaying mongo data
+  ul
+    each record, i in data
+      li
+        span= record.record + ' ' + record.woohoo
