@@ -2,7 +2,7 @@
 
 function Deck() {
   this.ranks = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
-  //this.colors = ['♠ Spades', '♥ Hearts', '♦ Diamonds', '♣ Clubs'];
+  this.descriptiveColors = ['♠ Spades', '♥ Hearts', '♦ Diamonds', '♣ Clubs'];
   this.colors = ['♠', '♥', '♦', '♣'];
   this.defaultDeck = [];
 
