@@ -1,0 +1,1037 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"radio",
+				"radioOptions"
+			],
+			[
+				"FACT",
+				"FACTORY_RESET_IN_PROGRESS"
+			],
+			[
+				"curr",
+				"currentNode"
+			],
+			[
+				"chipPla",
+				"chipPlaceholderNode"
+			],
+			[
+				"equ",
+				"equipmentIndex"
+			],
+			[
+				"ui",
+				"uiType"
+			],
+			[
+				"_equi",
+				"_equipObjMgr"
+			],
+			[
+				"equi",
+				"equipment"
+			],
+			[
+				"mem",
+				"memebers"
+			],
+			[
+				"navig",
+				"navigationController"
+			],
+			[
+				"_get",
+				"_getDisplayItems"
+			],
+			[
+				"start",
+				"startupController"
+			],
+			[
+				"get",
+				"getInstance"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"item",
+				"itemTitle"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"model",
+				"modelStatus"
+			],
+			[
+				"optio",
+				"optionData"
+			],
+			[
+				"options",
+				"optionsList"
+			],
+			[
+				"enabl",
+				"enableNav"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"_togg",
+				"_toggleNavButtonsVisibility"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"button",
+				"buttonRect"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"cha",
+				"changeCallback"
+			],
+			[
+				"syste",
+				"systemSettings"
+			],
+			[
+				"exis",
+				"existingUri"
+			],
+			[
+				"r",
+				"resultObj"
+			],
+			[
+				"resu",
+				"resultObj"
+			],
+			[
+				"system",
+				"systemUri"
+			],
+			[
+				"wiza",
+				"wizardController"
+			],
+			[
+				"mod",
+				"scModel"
+			],
+			[
+				"next",
+				"nextUri"
+			],
+			[
+				"sets",
+				"setSystemSettings"
+			],
+			[
+				"EaS",
+				"EasyInstall"
+			],
+			[
+				"buil",
+				"buildUI"
+			],
+			[
+				"reset",
+				"resetHandler"
+			],
+			[
+				"unocc",
+				"unoccTime"
+			],
+			[
+				"occ",
+				"occTime"
+			],
+			[
+				"sche",
+				"scheduleDefault"
+			],
+			[
+				"prepar",
+				"prepareScheduleTimeEvents"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"activ",
+				"activeSchedule"
+			],
+			[
+				"lang",
+				"langstringHTML"
+			],
+			[
+				"_timePi",
+				"_timePickerConfig"
+			],
+			[
+				"_time",
+				"_timePickerGroups"
+			],
+			[
+				"a_call",
+				"a_callback"
+			],
+			[
+				"schedu",
+				"scheduleInstance"
+			],
+			[
+				"Scor",
+				"ScoreBoard"
+			],
+			[
+				"scoreboa",
+				"scoreboard"
+			],
+			[
+				"_all",
+				"_allTimePickersConfig"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"_sche",
+				"_scheduleData"
+			],
+			[
+				"sys",
+				"systemModificationController"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"_crea",
+				"_createChips"
+			],
+			[
+				"optimal",
+				"optimalControlData"
+			],
+			[
+				"opti",
+				"optimalDays"
+			],
+			[
+				"_timeP",
+				"_timePickerDisplays"
+			],
+			[
+				"upda",
+				"updateUI"
+			],
+			[
+				"_timePI",
+				"_timePickerConfig"
+			],
+			[
+				"di",
+				"dialog"
+			],
+			[
+				"_timePic",
+				"_timePickerDisplays"
+			],
+			[
+				"make",
+				"makeAbsoluteTime"
+			],
+			[
+				"Updat",
+				"updateUI"
+			],
+			[
+				"_creat",
+				"_createTimePicker"
+			],
+			[
+				"checkbo",
+				"checkboxState"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"drop",
+				"dropDownWrapper"
+			],
+			[
+				"optima",
+				"optimalControlData"
+			],
+			[
+				"change",
+				"changeCallback"
+			],
+			[
+				"match",
+				"matchedItem"
+			],
+			[
+				"curren",
+				"currentSelection"
+			],
+			[
+				"dropDo",
+				"dropDownOptions"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"effec",
+				"effectiveDates"
+			],
+			[
+				"Score",
+				"Scoreboard"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"menu",
+				"menuClass"
+			],
+			[
+				"chip",
+				"chip-placeholder"
+			],
+			[
+				"sched",
+				"schedulesList"
+			],
+			[
+				"opt",
+				"optimalControlData"
+			],
+			[
+				"schedule",
+				"schedulesList"
+			],
+			[
+				"result",
+				"resultant"
+			],
+			[
+				"place",
+				"placeAt"
+			],
+			[
+				"temp",
+				"tempName"
+			],
+			[
+				"tem",
+				"tempName"
+			],
+			[
+				"comple",
+				"completed"
+			],
+			[
+				"newSCh",
+				"newScheduleData"
+			],
+			[
+				"bool",
+				"boolB"
+			],
+			[
+				"data",
+				"dataA"
+			],
+			[
+				"delete",
+				"deleteArray"
+			],
+			[
+				"schedul",
+				"scheduleData"
+			],
+			[
+				"sch",
+				"scheduleData"
+			],
+			[
+				"special",
+				"specialWriteOrder"
+			],
+			[
+				"a_list",
+				"a_listItems"
+			],
+			[
+				"contain",
+				"containerNode"
+			],
+			[
+				"membe",
+				"memberUri"
+			],
+			[
+				"_plac",
+				"_chipPlaceholders"
+			],
+			[
+				"new",
+				"newScheduleData"
+			],
+			[
+				"rename",
+				"renameSchedule"
+			],
+			[
+				"action",
+				"actionNode"
+			],
+			[
+				"ex",
+				"existing"
+			],
+			[
+				"a_li",
+				"a_listData"
+			],
+			[
+				"member",
+				"memberUri"
+			],
+			[
+				"_des",
+				"_destroyChips"
+			],
+			[
+				"chi",
+				"chips"
+			],
+			[
+				"possi",
+				"possibleNewName"
+			],
+			[
+				"_nam",
+				"_nameString"
+			],
+			[
+				"incr",
+				"incrementor"
+			],
+			[
+				"ref",
+				"refreshAllSchedulesList"
+			],
+			[
+				"_sce",
+				"_scheduleNameGenerator"
+			],
+			[
+				"memb",
+				"memberName"
+			],
+			[
+				"me",
+				"memberUri"
+			],
+			[
+				"Crea",
+				"CreateSchedulesWithMembers"
+			],
+			[
+				"scro",
+				"scrollableOffsetTop"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"total",
+				"totalMembers"
+			],
+			[
+				"memberUri",
+				"memberUris"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"scrol",
+				"scroll-event"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/# Developer/root/poker"
+	],
+	"file_history":
+	[
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/TimePickerGroup.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/EasyInstallApp.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/SetScheduleEvents.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/CreateSchedulesWithMembers.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/SystemCreationController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/EasyInstallController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/Utils/SBScheduleMgr.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/SystemModificationController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/PanelOptions.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/ListWidget.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/MaterialDesignRadioButton.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/DropDownSelect.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/MaterialDesignCheckBox.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/model/ModelStatus.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/NavigationController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/FinalStep.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SettingsTabContent/nls/settingsScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/FactoryResetProgressPopup.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/FactoryResetTab.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SettingsTabContent/nls/es/settingsScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SettingsTabContent/nls/fr/settingsScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SettingsTabContent/nls/pt/settingsScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemBalance/nls/systemBalanceText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus/nls/es/systemStatusText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus/nls/fr/systemStatusText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus/nls/pt/systemStatusText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus/nls/systemStatusText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/finalStepText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/SystemCreateProgressPopup.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/setScheduleEventsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/setScheduleEventsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/setScheduleEventsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/setScheduleEventsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget/nls/es/SystemSettingsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget/nls/fr/SystemSettingsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget/nls/pt/SystemSettingsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget/nls/SystemSettingsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/systemCreateProgressText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/systemCreateProgressText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/systemCreateProgressText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/systemCreateProgressText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/preSystemsCreateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/preSystemsCreateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/preSystemsCreateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/preSystemsCreateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/ReviewInstalledEquipment.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/installedEquipmentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/installedEquipmentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/installedEquipmentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/installedEquipmentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/startScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/startScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/MaterialDesignChip.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/SetSystemSettings.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/SystemSettingsWidget/template/SystemSettingsWidgetTemplate.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/CreateSystemsWithMembers.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/createSchedulesWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/SetSystemSettings/SetSystemSettings.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/createSchedulesWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/createSchedulesWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/createSchedulesWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/createSystemsWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/createSystemsWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/createSystemsWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/createSystemsWithMembersText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemList.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/SimpleBuildingMainCanvas.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/MaterialDesignTabContainer.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/ConnectionErrorDialog.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/Utils/BatteryStatus.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/MaterialDesignTextBox.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/LicensePopup.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/HeaderBarWidget.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/ConnectionTab.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/stores/IndexedDBStore.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/configurations/features-easyinstall.json",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/HelpContent/Main.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/StartupStrategyController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemSettingsApp.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/_fullScreenPopupMixin.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentList.js",
+		"/Users/martin.angelov/Downloads/tic-tac-toe/src/index.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/Utils/Initialized.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentStatus.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/ListItemWidget/template/ListItemZoneCardItem.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent/nls/equipmentContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui/hydra/EquipObjectManager.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui/hydra/nls/equipment.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent/EquipmentKeysMixin.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/HelpContent/nls/helpScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/Utils/AirSystemAppMixin.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers/AirSystemController.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemContent/nls/systemContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/_headerBarMixin.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/HelpView.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/SettingsView.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/HeaderBarWidget.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/HeaderBarWidget/template/HeaderBarWidget.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/PreSystemsCreate/PreSystemsCreate.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/CreateSystemsWithMembers/CreateSystemsWithMembers.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/SystemSettingsWidget.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/panelOptionsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/panelOptionsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/panelOptionsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/panelOptionsText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/PanelOptions/PanelOptions.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/TracerSCNameDateWidget.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme/TracerSCNameDateWidget.css",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/tracerSCNameDateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/es/tracerSCNameDateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/tracerSCNameDateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/tracerSCNameDateText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/pt/startScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/fr/startScreenText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/Left2RightProgressArrow.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemBalance.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent/nls/es/equipmentContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent/nls/fr/equipmentContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent/nls/pt/equipmentContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemBalance/nls/es/systemBalanceText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemBalance/nls/fr/systemBalanceText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemBalance/nls/pt/systemBalanceText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemContent/nls/pt/systemContentText.js",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets/EasyInstall/FinalStep/FinalStep.html",
+		"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall/nls/finalStepText.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui/widgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EasyInstall",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/EquipmentContent",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemStatus",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps/SystemContent",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui/hydra",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources/simplebuilding-theme",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/material-design-lite",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/model",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/resources",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/apps",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/controllers",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/ui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding/model",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/hui",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/configurations",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/cordova",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/bindableWidgets",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src",
+			"/Users/martin.angelov/NetBeansProjects/SimpleBuildingP2/trunk/app/src/simplebuilding"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".TimePickerGroupWrapper",
+			"TimePickerGroupTimePicker",
+			"CONSOLE.WARN",
+			"TODO>",
+			"_scheduleMgrPrepared",
+			"refreshAllSchedulesList",
+			"_scheduleMgrPrepared",
+			"finalCallbackObj",
+			"new ScoreBoard",
+			"ScoreBoard",
+			"refreshAllSchedulesList",
+			"prepareScheduleMgr",
+			"_scheduleMgr",
+			"getScheduleManager",
+			"getSchedules",
+			"_schedulemgr",
+			"schedulemgr",
+			"setUnsavedChanges",
+			"saveSchedulesOnSC",
+			"preNextClickedFn",
+			"saveSchedulesOnSC",
+			"createschedule",
+			"prepareSchedulesData",
+			"_allSchedules",
+			".mdl-list__item .mdl-radio.is-checked .mdl-radio__outer-circle",
+			"topic",
+			"showspinne",
+			"_observeModelStatus",
+			"TODO>",
+			"console.warn",
+			"click",
+			"disabled",
+			"_setDisabledAttr",
+			"MaterialDesignRadioButton",
+			".options",
+			".media-icon.clickable",
+			".PanelOptions .item-checkbox .clickable",
+			"isCommunicating",
+			".warn",
+			"PANEL_OPTIONS_ERROR",
+			"_unblockUI",
+			"_checkUC400CommunicationStatus",
+			"callback 1",
+			"callback1",
+			"callback 1",
+			"equipmentlist",
+			"observable",
+			"equipmentList",
+			"_observeModelStatus",
+			"_checkUC400Equipment",
+			"_observeModelStatus",
+			"_checkUC400Equipment",
+			"_observeModelStatus",
+			"_checkUC400Equipment",
+			"_checkUC400CommunicationStatus",
+			"_checkUC400Equipment",
+			"_checkUC400CommunicationStatus",
+			"_validCommStatus",
+			"All Done! Restarting the Concierge Installer.",
+			"Clearing systems and settings",
+			"FACTORY_RESET_TITLE",
+			"FACTORY_RESET_IN_PROGRESS",
+			"factoryResetDialog",
+			".FACTORY_RESET_DIALOG_TITLE",
+			"This process takes several minutes. When finished, the Startup Wizard will start.",
+			"Resetting Concierge to Factory Settings",
+			"All systems will be removed and all settings will be returned to factory defaults including passwords and PINs.",
+			"Reset Concierge system to factory settings?",
+			"Tap this button to delete all systems and schedules. Rerun the Setup Wizard to start again.",
+			"factory settings",
+			"reset ",
+			"defaults",
+			"Concierge to Factory Defaults",
+			"Reset Tracer Concierge to Factory Defaults",
+			"Tap REPLACE DEVICE to locate and match its replacement device.",
+			"ERROR! More than one new device was found and no replacement was made.",
+			"Check network communications and TRY AGAIN.",
+			"ERROR! There are no new devices to replace this device with.",
+			".BALANCE_DESCRIPTION",
+			"Tap ENABLE BALANCE MODE to place the system in balance mode. When this mode is enabled, the system overrides the devices for commissioning.",
+			"This application can place the system in Balance Mode. When this mode is enabled, the system equipment are cycled. Status is shown below.",
+			"Tap REMOVE to remove all member devices from this system and delete the system from Concierge. The member devices will be available to other systems.",
+			"Tap REMOVE to remove all member devices from the system and delete the system from Concierge. The member devices will still be available to other systems.",
+			"Change Name",
+			"Concierge has no systems. To define systems with the installed devices, use the menu to start the Setup Wizard.",
+			"Switch to Tracer Concierge main screen to see the customer\\'s view and customize the display settings.",
+			"DESCRIPTION",
+			"finalsteptext",
+			"Congratulations!",
+			"Unoccupied cannot be earlier than Occupied for the field indicated below",
+			"Error: Unoccupied cannot be earlier than Occupied for the field indicated below",
+			"Error! Unoccupied cannot be earlier than Occupied for the field indicated below",
+			"All systems need a schedule. Customize the default schedule below, or tap ADD NEW to create a new schedule.",
+			"Enable Duct Static Pressure Optimization",
+			"INITIAL_TEMP_SETPOINT",
+			"Initial Temperature Setpoint",
+			"Synchronize temperature setpoints with members",
+			"Review the system settings, and make changes if desired.",
+			"BOTTOM_DESCRIPTION",
+			"All done!",
+			"Default Schedule",
+			"Concierge is creating your systems with members and a default schedule. This may take several minutes depending on the number of systems you defined.",
+			".BOTTOM_DESCRIPTION",
+			"To finish the system setup, tap CONTINUE. This may take several minutes. When finished, you will set up schedules and adjust system settings.",
+			"No additional system settings are needed.",
+			"No additional system settings are needed. ",
+			"Additional system settings are needed. Select the VAV system type for the systems below.",
+			"Select VAV Settings",
+			"Suggested systems are shown below. To make changes, tap on the member equipment items.",
+			"! Concierge Panel UC400 Not Found",
+			"Select each option below to enable it and rename it. Mark the items that are lights.",
+			"FIND MORE DEVICES",
+			"headline",
+			"Set the name of the Tracer Concierge and adjust other settings.",
+			"Review Installed Devices",
+			"Review installed equipment",
+			"TODO>",
+			"console.warn",
+			"activeSchedule =",
+			"_resetScheduleEvents",
+			"allSchedules",
+			"_resetScheduleEvents",
+			"isprocessed",
+			"saveScheduleEventsOnSC",
+			"moveToNextStep",
+			"getNextScheduleInstanceWithoutEvents",
+			"_schedulesObserver",
+			"observer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ModelProperty\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Poker.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
