@@ -11,8 +11,8 @@ router.get('/', function(req, res, next) {
   });
 });
 
-router.get('/deck', function(req, res, next) {
-  res.render('deck', { title: 'Shuffling' });
+router.get('/play', function(req, res, next) {
+  res.render('play', { title: 'Shuffling' });
 });
 
 module.exports = router;
